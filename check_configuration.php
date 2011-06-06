@@ -1,5 +1,5 @@
 <?php
-
+//aaaaaa
 function is_cli()
 {
   return !isset($_SERVER['HTTP_HOST']);
